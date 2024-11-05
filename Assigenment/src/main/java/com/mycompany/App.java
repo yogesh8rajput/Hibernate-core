@@ -1,11 +1,13 @@
 package com.mycompany;
 
+import java.util.List;
 import java.util.Scanner;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
+import org.hibernate.query.Query;
 
 /**
  * Hello world!
@@ -31,11 +33,14 @@ public class App
     	cfg.configure();
     	SessionFactory sf=cfg.buildSessionFactory();
     	Session sess=sf.openSession();
+    	Query q=sess.createQuery("from Student1");
+    	
         Scanner sc=new Scanner(System.in);
         System.out.println("Select 1 to insert your data:");
         System.out.println("Select 2 to Update your data:");
         System.out.println("Select 3 to delete your data:");
         System.out.println("Select 4 to show your data:");
+        System.out.println("Select 5 to Show all data:");
         n=sc.nextInt();
         
         if(n==1)
@@ -119,6 +124,23 @@ public class App
         	
 
         	
+        	
+        }
+        
+        else if(n==5)
+        {
+        	
+        	List<Student1> l=q.list();
+
+        	for (Student1 e:l)
+        	{
+        	      //System.out.println(e);
+        	         System.out.println(e.getRollno()+":"+e.getName()+":"+e.getPer());
+
+        	}
+
+
+
         	
         }
         else {
