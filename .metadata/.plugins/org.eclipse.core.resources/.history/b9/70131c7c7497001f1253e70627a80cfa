@@ -1,0 +1,31 @@
+package com.mycompany;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        Configuration cfg=new Configuration();
+    	cfg.configure();
+    	SessionFactory sf=cfg.buildSessionFactory();
+    	Session sess=sf.openSession();
+    	 Employee emp1=(Employee)sess.load(Employee.class,121);    
+    	    System.out.println(emp1.getId()+" "+emp1.getName()+" "+emp1.getSalary());    
+    	    sess.close();    
+    	        
+    	    Session sess2=sf.openSession();    
+    	    Employee emp2=(Employee)sess.load(Employee.class,121);    
+    	    System.out.println(emp2.getId()+" "+emp2.getName()+" "+emp2.getSalary());    
+    	    sess.close();    
+    	        
+    	}    
+    
+}

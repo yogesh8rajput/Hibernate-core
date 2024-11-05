@@ -1,0 +1,22 @@
+
+Oct 17, 2024 09:44:54.87 NEW SESSION
+Oct 17, 2024 09:44:54.89 [15420:4000:1017/094454.871:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\jhikancdgcieieaapcjmbpjflikjgkpn.
+Oct 17, 2024 09:45:00.68 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2024 09:45:00.71 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+
+Oct 17, 2024 16:05:40.11 NEW SESSION
+Oct 17, 2024 16:05:40.13 [5924:7064:1017/160540.117:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\jhikancdgcieieaapcjmbpjflikjgkpn.
+Oct 17, 2024 16:05:42.87 [5924:7348:1017/160542.877:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Oct 17, 2024 16:05:43.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2024 16:05:43.49 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Oct 17, 2024 16:06:11.15 [5924:7348:1017/160611.155:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Oct 17, 2024 16:07:01.81 [5924:7348:1017/160701.815:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Oct 17, 2024 16:08:39.48 [5924:7348:1017/160839.484:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Oct 17, 2024 16:10:20.37 [5924:7348:1017/161020.370:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Oct 17, 2024 16:11:22.88 [5924:7348:1017/161122.888:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Oct 17, 2024 16:18:41.45 [5924:7348:1017/161841.455:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Oct 17, 2024 16:19:56.62 [5924:7348:1017/161956.622:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Oct 17, 2024 17:15:23.65 [5924:7348:1017/171523.653:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Oct 17, 2024 17:15:24.03 [5924:10424:1017/171524.033:ERROR:device_event_log_impl.cc(201)] [17:15:24.033] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 17, 2024 17:15:25.59 [5924:7348:1017/171525.591:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Oct 17, 2024 17:58:02.34 [5924:10424:1017/175802.348:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
