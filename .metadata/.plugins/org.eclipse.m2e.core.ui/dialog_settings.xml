@@ -35,6 +35,7 @@
 			<item value="com.One_to_many"/>
 		</list>
 		<list key="groupId">
+			<item value="HQL"/>
 			<item value="SecondlevelCaching"/>
 			<item value="Assigenment"/>
 			<item value="CRUD"/>
@@ -43,6 +44,7 @@
 			<item value="One_to_many"/>
 		</list>
 		<list key="artifactId">
+			<item value="HQL"/>
 			<item value="SecondlevelCaching"/>
 			<item value="Assigenment"/>
 			<item value="CRUD"/>
