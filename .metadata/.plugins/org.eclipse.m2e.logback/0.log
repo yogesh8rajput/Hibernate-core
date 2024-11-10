@@ -4082,3 +4082,29 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hibernate
 2024-11-07 14:36:17,267 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\HQL\src\test\resources
 2024-11-07 14:57:34,053 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\HQL\src\main\resources
 2024-11-07 14:57:34,056 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\HQL\src\test\resources
+2024-11-08 09:17:49,124 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-08 17:06:51,374 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-08 17:06:59,522 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-ehcache:jar:6.0.0.Alpha7 has been relocated to org.hibernate.orm:hibernate-ehcache:jar:6.0.0.Alpha7
+2024-11-08 17:07:01,975 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\CRUD\src\main\resources
+2024-11-08 17:07:01,982 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\CRUD\src\test\resources
+2024-11-08 17:07:04,491 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\HQL\src\main\resources
+2024-11-08 17:07:04,493 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\HQL\src\test\resources
+2024-11-08 17:07:04,737 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_1\src\main\resources
+2024-11-08 17:07:04,740 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_1\src\test\resources
+2024-11-08 17:07:05,055 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Hiber_1: Hiber_1:Hiber_1:0.0.1-SNAPSHOT with classifier  to /Hiber_1/target/classes
+2024-11-08 17:07:05,068 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Assigenment\src\main\resources
+2024-11-08 17:07:05,072 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Assigenment\src\test\resources
+2024-11-08 17:07:05,399 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_2\src\main\resources
+2024-11-08 17:07:05,402 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_2\src\test\resources
+2024-11-08 17:07:05,688 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Industry\src\main\resources
+2024-11-08 17:07:05,691 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Industry\src\test\resources
+2024-11-08 17:07:05,964 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Many_to_many\src\main\resources
+2024-11-08 17:07:05,966 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Many_to_many\src\test\resources
+2024-11-08 17:07:06,310 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_many\src\main\resources
+2024-11-08 17:07:06,314 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_many\src\test\resources
+2024-11-08 17:07:06,593 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_manyy\src\main\resources
+2024-11-08 17:07:06,596 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_manyy\src\test\resources
+2024-11-08 17:07:06,841 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_one\src\main\resources
+2024-11-08 17:07:06,844 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_one\src\test\resources
+2024-11-08 17:07:08,014 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\SecondlevelCaching\src\main\resources
+2024-11-08 17:07:08,016 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\SecondlevelCaching\src\test\resources

@@ -1,8 +1,0 @@
-package com.mycompany;
-
-public class Employee {
-
-	private Integer Id;
-	private String name;
-	private double salary;
-}

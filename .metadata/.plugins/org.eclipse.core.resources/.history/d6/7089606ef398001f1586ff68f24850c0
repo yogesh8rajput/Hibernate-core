@@ -1,9 +1,0 @@
-package com.mycompany;
-
-import net.sf.ehcache.hibernate.EhCacheRegionFactory;
-
-public class Student {
-	
-	EhCacheRegionFactory
-
-}
