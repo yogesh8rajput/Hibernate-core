@@ -4224,3 +4224,32 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hibernate
 2024-11-13 17:42:30,590 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
 2024-11-13 17:53:20,599 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
 2024-11-13 17:53:20,604 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 19:54:29,124 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-13 19:55:23,397 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 19:55:23,405 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:00:29,703 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:00:29,709 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:04:47,510 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:04:47,512 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:15:53,662 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:15:53,675 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:17:27,210 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:17:27,214 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:17:42,387 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:17:42,392 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:17:53,497 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:17:53,500 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:28:18,602 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_1\src\main\resources
+2024-11-13 20:28:18,608 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_1\src\test\resources
+2024-11-13 20:44:21,554 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:44:21,556 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:44:28,647 [Worker-32: Launching App (11)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:44:28,651 [Worker-32: Launching App (11)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:45:09,131 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:45:09,135 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:48:40,734 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:48:40,737 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:49:27,329 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:49:27,333 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-13 20:51:02,552 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-13 20:51:02,554 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
