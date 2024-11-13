@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\spring\HQL\src\main\java\com\mycompany\App.java"/>
 			<item value="D:\spring\Assigenment\src\main\java\com\mycompany\App.java"/>
 			<item value="D:\spring\Many_to_many\src\main\java\com\Many_to_many\App.java"/>
 			<item value="D:\spring\One_to_many\src\main\java\com\One_to_many\Answer.java"/>
@@ -29,12 +30,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.company"/>
 			<item value="com.mycompany"/>
 			<item value="com.Many_to_many"/>
 			<item value="com.One_to_manyy"/>
 			<item value="com.One_to_many"/>
 		</list>
 		<list key="groupId">
+			<item value="H_hibernat_criteria"/>
 			<item value="HQL"/>
 			<item value="SecondlevelCaching"/>
 			<item value="Assigenment"/>
@@ -44,6 +47,7 @@
 			<item value="One_to_many"/>
 		</list>
 		<list key="artifactId">
+			<item value="H_hibernat_criteria"/>
 			<item value="HQL"/>
 			<item value="SecondlevelCaching"/>
 			<item value="Assigenment"/>
