@@ -4253,3 +4253,34 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hibernate
 2024-11-13 20:49:27,333 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
 2024-11-13 20:51:02,552 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
 2024-11-13 20:51:02,554 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:01:07,899 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-14 11:11:51,806 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:11:51,814 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:12:22,301 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:12:22,304 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:14:43,931 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:14:43,935 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:15:14,376 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:15:14,380 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:15:43,124 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:15:43,127 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:17:30,080 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:17:30,082 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:19:05,690 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:19:05,693 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:23:14,685 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:23:14,688 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 11:23:53,600 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 11:23:53,604 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 15:55:08,817 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-14 15:55:45,799 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 15:55:45,808 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 15:56:34,927 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 15:56:34,932 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 15:59:07,274 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 15:59:07,279 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 16:03:42,107 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 16:03:42,112 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-14 17:01:21,322 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-11-14 17:01:21,331 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-11-15 12:14:57,589 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

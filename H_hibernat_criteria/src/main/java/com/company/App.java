@@ -14,6 +14,7 @@ import jakarta.persistence.criteria.CriteriaBuilder;
 import jakarta.persistence.criteria.CriteriaQuery;
 import jakarta.persistence.criteria.Root;
 
+
 /**
  * Hello world!
  *
@@ -32,19 +33,22 @@ public class App
         CriteriaQuery<Faculty> cq=cb.createQuery(Faculty.class);
         Root<Faculty> r=cq.from(Faculty.class);
         cq.select(r);
-        
-        jakarta.persistence.criteria.Predicate namee= cb.equal(r.get("name"),"Bindu");
-        jakarta.persistence.criteria.Predicate subb= cb.equal(r.get("sub"),"Biology");
-        cq.select(r).where(cb.and(namee,subb));
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter Your Subject Faculties");
+        String su=sc.nextLine();
+//        jakarta.persistence.criteria.Predicate namee= cb.equal(r.get("name"),"Bindu");
+        jakarta.persistence.criteria.Predicate subb= cb.equal(r.get("sub"),su);
+//        cq.select(r).where(cb.and(namee,subb));
+        cq.select(r).where(subb);
         Query q=sess.createQuery(cq);
-        List<Faculty> l=q.getResultList();
+        List<Faculty> l=q.list();
         for (Faculty f : l) {
 			System.out.println(f.getName()+":"+f.getSub()+":");
-			sess.clear();
-			sf.close();
+			
 		}
         
-        
+        sess.clear();
+		sf.close();
 //    	
 //        System.out.println( "Hello World!" );
 //        Scanner sc=new Scanner(System.in);
