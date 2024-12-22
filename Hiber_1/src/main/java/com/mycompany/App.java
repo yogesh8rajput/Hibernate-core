@@ -33,7 +33,7 @@ public class App
     	Object save = sess.save(s1);
     	tx.commit();
     	sess.close();
-    	System.out.println("Success");
+    	System.out.println("Successfully!!!!!");
     	
     }
 }
