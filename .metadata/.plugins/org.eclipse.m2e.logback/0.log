@@ -4284,3 +4284,32 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hibernate
 2024-11-14 17:01:21,322 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
 2024-11-14 17:01:21,331 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
 2024-11-15 12:14:57,589 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-13 15:45:27,202 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-13 15:45:44,473 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-ehcache:jar:6.0.0.Alpha7 has been relocated to org.hibernate.orm:hibernate-ehcache:jar:6.0.0.Alpha7
+2024-12-13 15:45:44,986 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\CRUD\src\main\resources
+2024-12-13 15:45:44,992 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\CRUD\src\test\resources
+2024-12-13 15:45:47,161 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\HQL\src\main\resources
+2024-12-13 15:45:47,164 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\HQL\src\test\resources
+2024-12-13 15:45:47,759 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\main\resources
+2024-12-13 15:45:47,763 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\H_hibernat_criteria\src\test\resources
+2024-12-13 15:45:48,233 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_1\src\main\resources
+2024-12-13 15:45:48,236 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_1\src\test\resources
+2024-12-13 15:45:48,683 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Hiber_1: Hiber_1:Hiber_1:0.0.1-SNAPSHOT with classifier  to /Hiber_1/target/classes
+2024-12-13 15:45:48,690 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Assigenment\src\main\resources
+2024-12-13 15:45:48,692 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Assigenment\src\test\resources
+2024-12-13 15:45:48,910 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_2\src\main\resources
+2024-12-13 15:45:48,914 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Hiber_2\src\test\resources
+2024-12-13 15:45:49,327 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Industry\src\main\resources
+2024-12-13 15:45:49,331 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Industry\src\test\resources
+2024-12-13 15:45:49,579 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Many_to_many\src\main\resources
+2024-12-13 15:45:49,582 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\Many_to_many\src\test\resources
+2024-12-13 15:45:49,899 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_many\src\main\resources
+2024-12-13 15:45:49,902 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_many\src\test\resources
+2024-12-13 15:45:50,334 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_manyy\src\main\resources
+2024-12-13 15:45:50,337 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_manyy\src\test\resources
+2024-12-13 15:45:50,735 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_one\src\main\resources
+2024-12-13 15:45:50,739 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\One_to_one\src\test\resources
+2024-12-13 15:45:51,673 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\SecondlevelCaching\src\main\resources
+2024-12-13 15:45:51,675 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\spring\SecondlevelCaching\src\test\resources
+2024-12-16 19:23:20,811 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-16 19:23:36,157 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
